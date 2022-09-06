@@ -1,2 +1,2 @@
-Hello Git and GitHub
-Hello Git and Github JB
+This website is to build my portfolio.
+-
