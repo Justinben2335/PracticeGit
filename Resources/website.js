@@ -16,4 +16,8 @@ const changeColor = () => {
     count +=1
 
 }
-element.onclick = changeColor;
+const addElement = () => {
+    let flexBox = document.getElementById('flex-container');
+    flexBox.innerHTML += '<div class=\'flex-item\'></div>';
+}
+element.onclick = addElement;

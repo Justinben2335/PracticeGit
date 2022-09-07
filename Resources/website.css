@@ -32,3 +32,14 @@ h4 {
     height:100px;
     
 }
+.flex-container {
+    display:flex;
+    width:100%;
+}
+.flex-item {
+    display:inline-block;
+    width: 10px;
+    height:10px;
+    margin:5px;
+    background-color:aqua;
+}
